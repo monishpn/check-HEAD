@@ -14,4 +14,5 @@ func main() {
 	fmt.Printf("Name's type: %T\n", name)
 	fmt.Printf("Value and Type: %v, %T\n", age, age)
 	// this is A
+	//this is B
 }
