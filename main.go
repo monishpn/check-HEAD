@@ -15,4 +15,5 @@ func main() {
 	fmt.Printf("Value and Type: %v, %T\n", age, age)
 	// this is A
 	//this is B
+	//this is C
 }
